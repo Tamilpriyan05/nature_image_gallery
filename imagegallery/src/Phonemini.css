@@ -1,0 +1,31 @@
+@media screen and (max-width:720px) and (min-width:636px) {
+    .natureimage{
+        width: 200px;
+        height: 180px;
+        margin-left: 5px;
+        margin-bottom: 8px;
+    }
+    .container{
+        padding: 5px 5px 5px 15px;
+        }
+    h2{
+        margin-left: 5px;
+    }
+    
+    h1{
+        margin-top: 0px;
+        text-align: center;
+        letter-spacing: 3px;
+        word-spacing: 5px;
+        font-size: 20px;
+        font-weight: 800;
+    }
+    .button{
+        margin-left: 5px;
+        padding: 6px 10px;
+        border-radius: 6px;
+        font-size: 16px;
+        font-weight: 500;
+    }
+    
+ }
